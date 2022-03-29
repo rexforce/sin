@@ -943,6 +943,12 @@ img {
 .contact_block_icon.icon3 span{
 	background:#49b5e7;
 	}
+.contact_block_icon.icon4{
+	border-color:#e749e7;
+	}
+.contact_block_icon.icon4 span{
+	background:#e749e7;
+	}
 .contact_block_icon i {
     color: #fff;
     font-size: 36px;
